@@ -1,7 +1,7 @@
-![MasterHead](https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-8cff12c/tamediacdn.techaheadcorp.com/wp-content/uploads/2021/01/16052634/11trendsblog-1.gif)]
+![MasterHead](https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-8cff12c/tamediacdn.techaheadcorp.com/wp-content/uploads/2021/01/16052634/11trendsblog-1.gif)
 <h1 align="center">Hi 👋, I'm Adil Kutait</h1>
 <h3 align="center">A passionate Flutter developer from Syria</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
 - 🔭 I’m currently working on [Careflix](https://github.com/Adel967/careflix)
 
@@ -10,7 +10,8 @@
 - 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **adelkutait8@gmail.com**
-
+## Examples of work
+<img  width="400" src="https://github.com/Adel967/Adel967/blob/main/careflix.png"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adil-kutait-a26a58241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil-kutait-a26a58241" height="30" width="40" /></a>
