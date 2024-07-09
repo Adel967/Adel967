@@ -11,8 +11,18 @@
 
 - 📫 How to reach me **adelkutait8@gmail.com**
 ## Examples of work
-<h3 align="left">Careflix</h3>
+<h3 align="left">1. Careflix</h3>
 <img  width="400" src="https://github.com/Adel967/Adel967/blob/main/careflix.png"/>
+<h4 align="left">Description</h4>
+<p>
+  CareFlix is a versatile app designed to provide a safe and enjoyable viewing experience for families. It offers a diverse range of content, including movies and series in English, anime, and Arabic. Users can easily search and filter for specific shows, ensuring they find exactly what they want to watch. Additionally, CareFlix keeps users informed about upcoming releases with its "coming soon" section. For added safety, a separate parental control app allows parents to manage usage time and duration, block the app on specific days, and restrict access to particular categories or shows by title.
+</p>
+<h4 align="left">Demo Link</h4>
+<a href="https://youtu.be/fRRHaTZKBzQ?si=TqSUWG--zZu5YnPz" target="blank">https://youtu.be/fRRHaTZKBzQ?si=TqSUWG--zZu5YnPz</a>
+<h4 align="left">Source Code</h4>
+<a href="https://github.com/Adel967/careflix" target="blank">1.<u> Careflix App</u></a>
+<br>
+<a href="https://github.com/Adel967/careflix_parental_control" target="blank">2.<u> Careflix Parental Control App</u></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adil-kutait-a26a58241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil-kutait-a26a58241" height="30" width="40" /></a>
