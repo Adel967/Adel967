@@ -42,6 +42,18 @@
 1.<a href="https://github.com/Adel967/HBA" target="blank">HBA App</a>
 <br>
 2.<a href="https://github.com/Adel967/hba_management" target="blank">HBA management App</a>
+
+<h3 align="left">3. Smart Anime App</h3>
+<img  width="400" src="https://github.com/Adel967/Adel967/blob/main/smart_anime_app.png"/>
+<h4 align="left">Description</h4>
+<p>
+  Currently, there is a great spread of anime in the world. Therefore, we came up with the idea of building a smart application to watch anime that aims to facilitate the user's access to the content which he prefers by building a recommendation system that studies the user's interests and suggests the most appropriate content for him. We also aim to build an advanced parental control system to determine the content, time and periods of the child's use of this application. This system sends weekly reports to parents about the child's activities on the application.
+</p>
+<h4 align="left">Demo Link</h4>
+<a href="https://youtu.be/Mu7Cip5JI48" target="blank">https://youtu.be/Mu7Cip5JI48</a>
+<h4 align="left">Source Code</h4>
+<a href="https://github.com/Adel967/Smart-Anime-App" target="blank">Smart Anime App</a>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adil-kutait-a26a58241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil-kutait-a26a58241" height="30" width="40" /></a>
