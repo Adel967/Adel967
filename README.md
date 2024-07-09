@@ -20,9 +20,9 @@
 <h4 align="left">Demo Link</h4>
 <a href="https://youtu.be/fRRHaTZKBzQ?si=TqSUWG--zZu5YnPz" target="blank">https://youtu.be/fRRHaTZKBzQ?si=TqSUWG--zZu5YnPz</a>
 <h4 align="left">Source Code</h4>
-<a href="https://github.com/Adel967/careflix" target="blank">1.<u> Careflix App</u></a>
+1.<a href="https://github.com/Adel967/careflix" target="blank">Careflix App</a>
 <br>
-<a href="https://github.com/Adel967/careflix_parental_control" target="blank">2.<u> Careflix Parental Control App</u></a>
+2.<a href="https://github.com/Adel967/careflix_parental_control" target="blank">Careflix Parental Control App</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adil-kutait-a26a58241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil-kutait-a26a58241" height="30" width="40" /></a>
