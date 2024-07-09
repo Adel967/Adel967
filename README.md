@@ -17,12 +17,31 @@
 <p>
   CareFlix is a versatile app designed to provide a safe and enjoyable viewing experience for families. It offers a diverse range of content, including movies and series in English, anime, and Arabic. Users can easily search and filter for specific shows, ensuring they find exactly what they want to watch. Additionally, CareFlix keeps users informed about upcoming releases with its "coming soon" section. For added safety, a separate parental control app allows parents to manage usage time and duration, block the app on specific days, and restrict access to particular categories or shows by title.
 </p>
+<h4 align="left">Technologies</h4>
+<p>
+  Flutter, Firebase and rive.
+</p>
 <h4 align="left">Demo Link</h4>
 <a href="https://youtu.be/fRRHaTZKBzQ?si=TqSUWG--zZu5YnPz" target="blank">https://youtu.be/fRRHaTZKBzQ?si=TqSUWG--zZu5YnPz</a>
 <h4 align="left">Source Code</h4>
 1.<a href="https://github.com/Adel967/careflix" target="blank">Careflix App</a>
 <br>
 2.<a href="https://github.com/Adel967/careflix_parental_control" target="blank">Careflix Parental Control App</a>
+
+
+
+<h3 align="left">2. HBA Hotel Recervation System</h3>
+<img  width="400" src="https://github.com/Adel967/Adel967/blob/main/hba.png"/>
+<h4 align="left">Description</h4>
+<p>
+  HBA is a comprehensive hotel reservation app designed to simplify the booking process for travelers. Users can view top hotels, explore rooms, and see recommended rooms based on sales. The app includes powerful search and filter capabilities, allowing users to find specific hotels or rooms by country, room type, and price range. Booking a room is seamless, with online payment available through PayPal. Additionally, there is a separate super admin app where new hotels and hotel managers can be created, enabling super admins to entrust the management of a hotel to a specific manager.
+</p>
+<h4 align="left">Demo Link</h4>
+<a href="https://youtu.be/-wSWJrXEFsM?si=vcQ1m3lHeVh5xx_V" target="blank">https://youtu.be/-wSWJrXEFsM?si=vcQ1m3lHeVh5xx_V</a>
+<h4 align="left">Source Code</h4>
+1.<a href="https://github.com/Adel967/HBA" target="blank">HBA App</a>
+<br>
+2.<a href="https://github.com/Adel967/hba_management" target="blank">HBA management App</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adil-kutait-a26a58241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil-kutait-a26a58241" height="30" width="40" /></a>
