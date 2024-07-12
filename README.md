@@ -1,6 +1,7 @@
 ![MasterHead](https://cdn-ilajckf.nitrocdn.com/utLabjbGVjpaYDQkazoKnooguTzYeQRR/assets/images/optimized/rev-8cff12c/tamediacdn.techaheadcorp.com/wp-content/uploads/2021/01/16052634/11trendsblog-1.gif)
 <h1 align="center">Hi 👋, I'm Adil Kutait</h1>
-<h3 align="center">A passionate Flutter developer from Syria</h3>
+<h3 align="center">
+I'm a 24-year-old Software Engineer with 3 years of experience in building mobile apps using Flutter. I am passionate about developing innovative and efficient solutions. Welcome to my GitHub profile, where you can explore my projects and collaborations. Let's create something amazing together!</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
 - 🔭 I’m currently working on [Careflix](https://github.com/Adel967/careflix)
