@@ -28,9 +28,21 @@ I'm a 24-year-old Software Engineer with 3 years of experience in building mobil
 <h4 align="left">App Store Link</h4>
 <a href="https://apps.apple.com/us/app/yolo-clinic-app/id6443390787?platform=iphone" target="blank">https://apps.apple.com/us/app/yolo-clinic-app/id6443390787?platform=iphone</a>
 
+<h3 align="left">2. Augmented Reality App</h3>
+<img  width="400" src="https://github.com/Adel967/Adel967/blob/main/ar_app.png"/>
+<h4 align="left">Description</h4>
+<p>
+  The Augmented Reality (AR) app enhances user experiences by integrating AR technology to overlay digital content onto the real world. Developed using Flutter, it provides interactive and immersive features, making it useful for various applications such as education, entertainment, or retail.
+</p>
+<h4 align="left">Technologies</h4>
+<p>
+  Flutter, AR and Firebase
+</p>
+<h4 align="left">Demo Link</h4>
+<a href="https://youtu.be/sPBu-N6bN_8?si=Rc8q2ecaLbNSLXFS" target="blank">https://youtu.be/sPBu-N6bN_8?si=Rc8q2ecaLbNSLXFS</a>
 
 
-<h3 align="left">2. Careflix</h3>
+<h3 align="left">3. Careflix</h3>
 <img  width="400" src="https://github.com/Adel967/Adel967/blob/main/careflix.png"/>
 <h4 align="left">Description</h4>
 <p>
@@ -49,7 +61,7 @@ I'm a 24-year-old Software Engineer with 3 years of experience in building mobil
 
 
 
-<h3 align="left">3. HBA Hotel Recervation System</h3>
+<h3 align="left">4. HBA Hotel Recervation System</h3>
 <img  width="400" src="https://github.com/Adel967/Adel967/blob/main/hba.png"/>
 <h4 align="left">Description</h4>
 <p>
@@ -62,7 +74,7 @@ I'm a 24-year-old Software Engineer with 3 years of experience in building mobil
 <br>
 2.<a href="https://github.com/Adel967/hba_management" target="blank">HBA management App</a>
 
-<h3 align="left">4. Smart Anime App</h3>
+<h3 align="left">5. Smart Anime App</h3>
 <img  width="400" src="https://github.com/Adel967/Adel967/blob/main/smart%20anime%20app.png"/>
 <h4 align="left">Description</h4>
 <p>
