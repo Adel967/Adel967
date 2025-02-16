@@ -13,8 +13,10 @@ I'm a 24-year-old Software Engineer with 3 years of experience in building mobil
 - 📫 How to reach me **adelkutait8@gmail.com**
 ## Examples of work
 <h3 align="left">1. YOLO</h3>
-<img  width="400" src="https://github.com/Adel967/Adel967/blob/main/yolo_clinic.jpg"/>
-<img  width="400" src="https://github.com/Adel967/Adel967/blob/main/yolo1.png"/>
+<p align="center">
+  <img width="400" src="https://github.com/Adel967/Adel967/blob/main/yolo_clinic.jpg" />
+  <img width="400" src="https://github.com/Adel967/Adel967/blob/main/yolo1.png" />
+</p>
 <h4 align="left">Company Link</h4>
 <a href="https://yolo.clinic/" target="blank">https://yolo.clinic/</a>
 <h4 align="left">Description</h4>
